@@ -26,6 +26,10 @@
 
 ---
 
+## すぐ使える一括ダウンロードパック＆技術書
+- **BOOTH 実務自動化3点セット（Python CSV集計＋GAS自動通知＋オフラインPII/JSONツール・手順書付き）**：https://inemuric.booth.pm/items/9195572
+- **Zenn 有料技術書（第1章無料公開）**：https://zenn.dev/inemuri/books/safe-ai-data-automation-kit
+
 ## 動作確認方法（Pythonツール）
 
 ```bash
